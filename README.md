@@ -6,4 +6,4 @@ I added some test images from my Galaxy S8 with a wide-angle-lens attachment and
 
 | Input image | Un-distorted image |
 | --- | --- |
-|<img src="./calibration_s8_wide/test_img.jpg" /> | <img src="./calibration_s8_wide/test_undist.jpg" /> |
+|<img src="./calibration_s8_wide/test_img.jpg" style="transform:rotate(90deg)" /> | <img src="./calibration_s8_wide/test_undist.jpg" /> |
